@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-source-trackingmore",
+  "description": "Source carrier information from Trackingmore",
+  "version": "1.0.0",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "tracking",
+    "shipping",
+    "carriers"
+  ],
+  "dependencies": {
+    "gatsby-source-filesystem": "2.3.14",
+    "isomorphic-unfetch": "3.0.0"
+  },
+  "license": "MIT"
+}
